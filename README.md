@@ -31,5 +31,5 @@ Aqui se encuentra el sesnsor de temperatura y humedad DHT22 conectado a la ESP32
 ![imagen](https://github.com/JosueMiguelOM/SistemaDeRiego_IOT/assets/109251541/ef49459c-620a-4146-8afc-c32a8788801f)
 
 Imagene general
-![Uploading imagen.png…]()
+![diagrama](https://github.com/JosueMiguelOM/SistemaDeRiego_IOT/assets/109251541/07bd8d5c-6b36-432c-90ac-569f110289e6)
 

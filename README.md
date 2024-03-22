@@ -21,6 +21,8 @@ Crear un sistema de riego automatico, al detectar niveles altos de temperatura o
 
 ## Prototipo
 
+![prototipo](https://github.com/JosueMiguelOM/SistemaDeRiego_IOT/assets/109251541/1aaea4aa-8721-4fcf-92d1-bdfcd9044cf7)
+
 ## Diagrama
 
 En esta parte del diagrama podemos observar un circuito (ULN2003) para manejar el control del agua, este esta conectado a la ESP32 que a la vez estan a unos leds e indican el nivel del agua dependiendo de las 4 terminales que estan del lado B

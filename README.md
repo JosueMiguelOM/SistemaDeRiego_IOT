@@ -6,6 +6,10 @@
 
 ## Objetivo General
 
+Desarrollar e implementar un sistema de riego automático basado en Internet de las Cosas (IoT), que optimice el consumo de agua en la agricultura mediante la integración de un tanque de agua con sensor de nivel, un sensor de humedad y temperatura del suelo, y una bomba de agua, con el fin de proporcionar un riego eficiente y controlado, mejorando así la productividad de los cultivos y promoviendo la sostenibilidad ambiental.
+
+Crear un sistema de riego automatico, al detectar niveles altos de temperatura o niveles bajos de humedad
+
 ## Tabla de Software a utilizar
 
 |Nombre|Versión|Descipción|

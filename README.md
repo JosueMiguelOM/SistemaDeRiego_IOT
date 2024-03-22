@@ -7,3 +7,7 @@
 ## Objetivo General
 
 ## Tabla de Software a utilizar
+
+## Prototipo
+
+## Diagrama

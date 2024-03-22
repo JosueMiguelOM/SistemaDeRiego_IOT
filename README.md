@@ -23,3 +23,8 @@ Crear un sistema de riego automatico, al detectar niveles altos de temperatura o
 
 ## Diagrama
 
+![imagen](https://github.com/JosueMiguelOM/SistemaDeRiego_IOT/assets/109251541/e77fdc82-606f-4e8d-8030-982261029cf8)
+![imagen](https://github.com/JosueMiguelOM/SistemaDeRiego_IOT/assets/109251541/5544bbb5-226d-4a3a-9d4a-5d20a496a4c6)
+![imagen](https://github.com/JosueMiguelOM/SistemaDeRiego_IOT/assets/109251541/ef49459c-620a-4146-8afc-c32a8788801f)
+
+
